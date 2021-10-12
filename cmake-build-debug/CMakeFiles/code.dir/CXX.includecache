@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/keithlancaster/Library/Mobile Documents/com~apple~CloudDocs/UNR/CS202/lectures/overloading/code/main.cpp
+iostream
+-
+string
+-
+
